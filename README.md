@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi There 👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">I'm Ayanda from Johanessburg SA<br><br>- 🔭 I’m studying software development at WeThinkCode_<br>- 📚 I'm currently learning Java (Building ToyRobot)<br>- ⚡ In my free time I am coding with my discord group called The-D3bug-Squad</p>
+<p align="center">I'm Ayanda from Johannesburg SA<br><br>- 🔭 I’m studying software development at WeThinkCode_<br>- 📚 I'm currently learning Java (Building ToyRobot)<br>- ⚡ In my free time I am coding with my discord group called The-D3bug-Squad</p>
 
 ###
 
