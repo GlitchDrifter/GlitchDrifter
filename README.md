@@ -16,21 +16,17 @@
 <h1 align="center">🪐🌐 Welcome, Cyber Pioneer! 🌐🪐</h1>
 
 ###
-<p align="center">Welcome to the intergalactic hub of <span style="font-weight:bold;">Ayanda Latsha</span>, where lines of code weave together like the stars in the cosmos.
+<p align="center">  
+Welcome to the intergalactic hub of Ayanda, where lines of code weave together like the stars in the cosmos.
+
+I'm Ayanda from Johannesburg, SA. 🔭 Studying software development at WeThinkCode_, I'm on a mission to conquer Java with my ToyRobot project. When I'm not hitting the books, you'll find me coding with my awesome Discord group, The-D3bug-Squad.
 
 Here in this digital spaceship, we’re navigating the future, one byte at a time. Whether you’re a seasoned space traveler or a curious cosmic apprentice, there’s a constellation of projects waiting to be explored. From quantum algorithms to AI companions that might just take over the universe (just kidding...or am I?), this repository is your portal to the cutting-edge frontiers of programming.
 
-So, strap in, set your phasers to 'stun', and let's boldly code where no one has coded before</p>
+So, strap in, set your phasers to 'stun', and let's boldly code where no one has coded before! 🚀🛸✨
+</p>
 
 ### <br>
-
-<h3 align="center">👩‍💻 About Me 👩‍💻</h3>
-
-###
-
-<p align="center">I'm Ayanda from Johannesburg SA<br><br>- 🔭 I’m studying software development at WeThinkCode_<br>- 📚 I'm currently learning Java (Building ToyRobot)<br>- ⚡ In my free time I am coding with my discord group called The-D3bug-Squad</p>
-
-###
 
 <h3 align="center">🛠 Language and tools 🛠</h3>
 
