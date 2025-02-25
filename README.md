@@ -17,7 +17,7 @@
 
 ###
 <p align="center">  
-Welcome to the intergalactic hub of Ayanda, where lines of code weave together like the stars in the cosmos.
+Welcome to the intergalactic hub of NewTechCoder, where lines of code weave together like the stars in the cosmos.
 
 I'm Ayanda from Johannesburg, SA. 🔭 Studying software development at WeThinkCode_, I'm on a mission to conquer Java with my ToyRobot project. When I'm not hitting the books, you'll find me coding with my awesome Discord group, The-D3bug-Squad.
 
