@@ -1,37 +1,32 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayanda-latsha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/AyandaLatsha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+<h1 align="center">🌌 Welcome to the Digital Wasteland!</h1>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NewTechCoder.NewTechCoder&"  />
-</div>
-
-###
-
-<h1 align="center">🪐🌐 Welcome, Cyber Pioneer! 🌐🪐</h1>
-
-###
 <p align="center">  
-Welcome to the intergalactic hub of NewTechCoder, where lines of code weave together like the stars in the cosmos.
-
-I'm Ayanda from Johannesburg, SA. 🔭 Studying software development at WeThinkCode_, I'm on a mission to conquer Java with my ToyRobot project. When I'm not hitting the books, you'll find me coding with my awesome Discord group, The-D3bug-Squad.
-
-Here in this digital spaceship, we’re navigating the future, one byte at a time. Whether you’re a seasoned space traveler or a curious cosmic apprentice, there’s a constellation of projects waiting to be explored. From quantum algorithms to AI companions that might just take over the universe (just kidding...or am I?), this repository is your portal to the cutting-edge frontiers of programming.
-
-So, strap in, set your phasers to 'stun', and let's boldly code where no one has coded before! 🚀🛸✨
+I'm GlitchDrifter – a programmer navigating fractured systems and crafting code from chaos.
+</p>
+<p align="center">
+🧩 Programming Explorer: Proficient in Python, learning Java, and experimenting with innovative tech projects.
 </p>
 
-### <br>
+<h3 align="center">🌟 What I’m Learning</h1>
+<p align="center">
+🌐 Jira and GitHub mastery for project management.
+</p>
+<p align="center">
+⚙️ Advanced techniques in Python and Java.
+</p>
+<p align="center">
+🤖 I transform glitches into pathways, one byte at a time!
+</p>
+
+<h3 align="center">🌀 Let’s Connect</h1>
+<p align="center">
+Feel free to check out my repositories, collaborate on projects.
+Together we can turn chaos into code!
+</p>
+
+<br>
 
 <h3 align="center">🛠 Language and tools 🛠</h3>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -66,14 +61,8 @@ So, strap in, set your phasers to 'stun', and let's boldly code where no one has
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
-
 <h3 align="center">🔥 My Stats 🔥</h3>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NewTechCoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GlitchDrifter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
