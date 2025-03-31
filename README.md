@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Welcome to the Digital Wasteland!</h1>
+<h1 align="center">🌌 Welcome to the Digital Wasteland 🌌</h1>
 
 <p align="center">  
 I'm GlitchDrifter – a programmer navigating fractured systems and crafting code from chaos.
